@@ -1,4 +1,4 @@
-# Cancer_Detection
+# Cancer Detection
 
 This assignments was for a deep learning course where the goal detect metestatic cancer in small images taken from pathology scans.
 
